@@ -1,18 +1,20 @@
+[English Version](index_en.md)
+
 <div align="center">
 
-## Nicolas Campos
-Estudante de Desenvolvimento de Sistemas
-Fortaleza/CE - Brasil  
-Português (Nativo) / Inglês (Intermediário)  
-Email Para Contato: [nicolas.csantos@hotmail.com](mailto:nicolas.csantos@hotmail.com)  
-Github: [github.com/NicolasKernel](https://github.com/NicolasKernel)
+<h1>Nicolas C Santos</h1>
+Fortaleza/CE - Brasil <br>
+Português (Nativo) / Inglês (Intermediário)  <br>
+<a href="mailto:nicolas.csantos@hotmail.com">nicolas.csantos@hotmail.com
+</a> <br>
+<a href="https://github.com/NicolasKernel">github.com/NicolasKernel</a>
+
 
 </div>
+
 ---
 
 Estudante com experiência prática em **desenvolvimento de aplicações desktop e mobile**, bancos de dados relacionais e tecnologias web. Atuação frequente em **trabalho em equipe**, participação em eventos de tecnologia e apresentação de projetos para público externo. Perfil proativo, com **alta capacidade de aprendizado**, familiaridade com **desenvolvimento assistido por IA** e foco em entregar soluções funcionais e eficientes. Busco **estágio em TI** para aplicar conhecimentos técnicos, evoluir profissionalmente e gerar impacto real.
-
----
 
 ## **Competências**
 
@@ -36,8 +38,6 @@ Estudante com experiência prática em **desenvolvimento de aplicações desktop
 * Organização e documentação
 * Proatividade
 * Pensamento lógico e resolução de problemas
-
----
 
 ## **Experiência Profissional**
 
