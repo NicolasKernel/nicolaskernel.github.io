@@ -14,6 +14,8 @@ Portuguese (Native) / English (Intermediate)  <br>
 
 </div>
 
+<br>
+
 ---
 
 Student with practical experience in **desktop and mobile application development**, relational databases, and web technologies. Frequent involvement in **teamwork**, participation in technology events, and presentation of projects to external audiences. Proactive profile, with **high learning capacity**, familiarity with **AI-assisted development**, and focus on delivering functional and efficient solutions. Seeking **IT internship** to apply technical knowledge, evolve professionally, and generate real impact.

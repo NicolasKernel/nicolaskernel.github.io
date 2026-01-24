@@ -1,5 +1,5 @@
 * {
-  margin: 0 auto;
+  margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
@@ -9,5 +9,6 @@ body {
   background-color: #f9fafb;
   color: #111827;
   line-height: 1.6;
+   margin: 0 auto;
   max-width: 700px;
 }
