@@ -71,7 +71,7 @@ Student with practical experience in **desktop and mobile application developmen
 
 ### **Systems Development Technician // 27/01/2025 - ongoing**
 
-**[Senac Centro - Av. Tristão Gonçalves, 1245, Centro, Fortaleza-CE]** — *In progress*
+**[Senac Centro - Av. Tristão Gonçalves, 1245, Centro, Fortaleza-CE]**
 
 * Programming
 * Software Engineering

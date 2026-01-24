@@ -59,7 +59,7 @@ Estudante com experiência prática em **desenvolvimento de aplicações desktop
 
 ### **Apresentação de Projetos em Eventos de Tecnologia**
 
-**Feira do Empreendedor | SANA**
+**Feira do Empreendedor // SANA**
 
 * Apresentei projetos tecnológicos em **stands de eventos**, comunicando soluções técnicas para público diverso.
 * Desenvolvi habilidades de **comunicação, argumentação e demonstração de produtos**.
@@ -69,9 +69,9 @@ Estudante com experiência prática em **desenvolvimento de aplicações desktop
 
 ## **Educação**
 
-### **Técnico em Desenvolvimento de Sistemas // 27/01/2025 - ongoing****
+### **Técnico em Desenvolvimento de Sistemas // 27/01/2025 - Em andamento**
 
-**[Senac Centro - Av. Tristão Gonçalves, 1245, Centro, Fortaleza-CE]** — *Em andamento*
+**[Senac Centro - Av. Tristão Gonçalves, 1245, Centro, Fortaleza-CE]**
 
 * Programação
 * Engenharia de Software
