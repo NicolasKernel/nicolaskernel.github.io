@@ -1,5 +1,7 @@
 [English Version](index_en.md)
 
+<link rel="stylesheet" type="text/css" href="style.css">
+
 <div align="center">
 
 <h1>Nicolas C Santos</h1>
@@ -65,7 +67,7 @@ Estudante com experiência prática em **desenvolvimento de aplicações desktop
 
 ## **Educação**
 
-### **Técnico em Desenvolvimento de Sistemas**
+### **Técnico em Desenvolvimento de Sistemas // 27/01/2025 - ongoing****
 
 **[Senac Centro - Av. Tristão Gonçalves, 1245, Centro, Fortaleza-CE]** — *Em andamento*
 
@@ -75,7 +77,7 @@ Estudante com experiência prática em **desenvolvimento de aplicações desktop
 * Documentação Técnica
 * Desenvolvimento de Sistemas
 
-### **Web Designer**
+### **Web Designer // 27/11/2023 - 06/02/2024**
 
 **[Senac Centro - Av. Tristão Gonçalves, 1245, Centro, Fortaleza-CE]**
 
