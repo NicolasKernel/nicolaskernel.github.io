@@ -1,6 +1,6 @@
 [English Version](index_en.md)
 
-<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" href="style.css">
 
 <div align="center">
 
