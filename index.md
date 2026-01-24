@@ -1,0 +1,84 @@
+
+
+# **NICOLAS CAMPOS SANTOS**
+
+Estudante de Desenvolvimento de Sistemas | Estágio em TI
+Fortaleza/CE - Brasil
+Português (Nativo) / Inglês (Intermediário)
+[nicolas.csantos@hotmail.com](mailto:nicolas.csantos@hotmail.com)
+[https://github.com/NicolasKernel]
+
+---
+
+Estudante de **Desenvolvimento de Sistemas**, com experiência prática em **desenvolvimento de aplicações desktop e mobile**, bancos de dados relacionais e tecnologias web. Atuação frequente em **trabalho em equipe**, participação em eventos de tecnologia e apresentação de projetos para público externo. Perfil proativo, com **alta capacidade de aprendizado**, familiaridade com **desenvolvimento assistido por IA** e foco em entregar soluções funcionais e eficientes. Busco **estágio em TI** para aplicar conhecimentos técnicos, evoluir profissionalmente e gerar impacto real.
+
+---
+
+## **Competências**
+
+### Técnicas
+
+* Python
+* FlutterFlow
+* PostgreSQL (modelagem e integração com aplicações)
+* JavaScript, HTML, CSS, Node.js
+* Desenvolvimento Web
+* Wordpress
+* Integração Front-end ↔ Banco de Dados
+* Documentação de software
+* Uso de IA no desenvolvimento (Gemini, Claude)
+
+### Comportamentais
+
+* Trabalho em equipe
+* Comunicação clara e objetiva
+* Aprendizado rápido
+* Organização e documentação
+* Proatividade
+* Pensamento lógico e resolução de problemas
+
+---
+
+## **Experiência Profissional**
+
+### **Projetos Acadêmicos – Desenvolvimento de Sistemas**
+
+**Curso Técnico em Desenvolvimento de Sistemas** | [Senac]
+*(Experiência prática em equipe)*
+
+* Desenvolvi, em equipe, uma **aplicação desktop em Python com Kivy**, focada em funcionalidade e facilidade de uso para o úsuario.
+* Participei da **criação de uma aplicação mobile** voltada para **aumento de vendas e melhoria da comunicação entre clientes e donos de barbearias**, utilizando **FlutterFlow**.
+* Integrei **PostgreSQL** às aplicações, realizando modelagem de dados, consultas e conexão com sistemas.
+* Apliquei conceitos de **engenharia de software**, organização de código e documentação técnica.
+* Utilizei **IA (Gemini e Claude)** como suporte no desenvolvimento, aumentando a **velocidade de entrega e eficiência na resolução de problemas**.
+* Atuei diretamente no **trabalho colaborativo**, divisão de tarefas e alinhamento de requisitos.
+
+### **Apresentação de Projetos em Eventos de Tecnologia**
+
+**Feira do Empreendedor | SANA**
+
+* Apresentei projetos tecnológicos em **stands de eventos**, comunicando soluções técnicas para público diverso.
+* Desenvolvi habilidades de **comunicação, argumentação e demonstração de produtos**.
+* Recebi feedback direto de visitantes, empreendedores e profissionais da área de tecnologia.
+
+---
+
+## **Educação**
+
+### **Técnico em Desenvolvimento de Sistemas**
+
+**[Senac Centro - Av. Tristão Gonçalves, 1245, Centro, Fortaleza-CE]** — *Em andamento*
+
+* Programação
+* Engenharia de Software
+* Banco de Dados
+* Documentação Técnica
+* Desenvolvimento de Sistemas
+
+### **Web Designer**
+
+**[Senac Centro - Av. Tristão Gonçalves, 1245, Centro, Fortaleza-CE]**
+
+* Convenções de design web
+* Criação de sites
+* WordPress
