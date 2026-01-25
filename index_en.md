@@ -30,7 +30,7 @@ Student with practical experience in **desktop and mobile application developmen
 * JavaScript, HTML, CSS, Node.js
 * Web Development
 * WordPress
-* Front-end ↔ Database Integration
+* Back-end ↔ Database Integration
 * Software Documentation
 * Use of AI in development (Gemini, Claude)
 

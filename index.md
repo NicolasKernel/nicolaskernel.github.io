@@ -30,7 +30,7 @@ Estudante com experiência prática em **desenvolvimento de aplicações desktop
 * JavaScript, HTML, CSS, Node.js
 * Desenvolvimento Web
 * Wordpress
-* Integração Front-end ↔ Banco de Dados
+* Integração Back-end ↔ Banco de Dados
 * Documentação de software
 * Uso de IA no desenvolvimento (Gemini, Claude)
 
