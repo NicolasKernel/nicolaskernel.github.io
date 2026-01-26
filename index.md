@@ -1,3 +1,7 @@
+<a href="assets\Curriculo_NicolasCSantos.pdf" target="_blank">
+Baixar Em PDF
+</a>
+
 [English Version](index_en.md)
 
 <link rel="stylesheet" href="style.css">

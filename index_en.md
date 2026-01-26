@@ -1,3 +1,6 @@
+<a href="assets\Resume_NicolasCSantos.pdf" target="_blank">
+Download PDF</a>
+
 [ptBR Version](index.md)
 
 <link rel="stylesheet" href="style.css">
