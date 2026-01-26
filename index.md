@@ -59,11 +59,10 @@ Estudante com experiência prática em **desenvolvimento de aplicações desktop
 
 ### **Apresentação de Projetos em Eventos de Tecnologia**
 
-**Feira do Empreendedor // SANA**
-
-* Apresentei projetos tecnológicos em **stands de eventos**, comunicando soluções técnicas para público diverso.
-* Desenvolvi habilidades de **comunicação, argumentação e demonstração de produtos**.
-* Recebi feedback direto de visitantes, empreendedores e profissionais da área de tecnologia.
+* **Siará Tech Summit & SANA**
+  * Apresentei projetos tecnológicos em **stands de eventos**, comunicando soluções técnicas para público diverso.
+  * Desenvolvi habilidades de **comunicação, argumentação e demonstração de produtos**.
+  * Recebi feedback direto de visitantes, empreendedores e profissionais da área de tecnologia.
 
 ---
 
