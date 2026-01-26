@@ -4,11 +4,13 @@
 
 <div align="center">
 
-<h1>Nicolas C Santos</h1>
+<h1>Nicolas C. Santos</h1>
 Fortaleza/CE - Brazil <br>
-Portuguese (Native) / English (Intermediate)  <br>
++55 (85) 9 8500 6624 <br>
+Portuguese (Native) & English  <br>
 <a href="mailto:nicolas.csantos@hotmail.com">nicolas.csantos@hotmail.com
 </a> <br>
+
 <a href="https://github.com/NicolasKernel">github.com/NicolasKernel</a>
 
 
