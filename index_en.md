@@ -59,11 +59,10 @@ Student with practical experience in **desktop and mobile application developmen
 
 ### **Project Presentation in Technology Events**
 
-**Feira do Empreendedor - Entrepreneur Fair // SANA**
-
-* Presented technological projects at **event stands**, communicating technical solutions to diverse audiences.
-* Developed skills in **communication, argumentation, and product demonstration**.
-* Received direct feedback from visitors, entrepreneurs, and technology professionals.
+* **Siará Tech Summit & SANA**
+  * Presented technological projects at **event stands**, communicating technical solutions to diverse audiences.
+  * Developed skills in **communication, argumentation, and product demonstration**.
+  * Received direct feedback from visitors, entrepreneurs, and technology professionals.
 
 ---
 
