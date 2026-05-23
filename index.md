@@ -73,7 +73,7 @@ Estudante com experiência prática em **desenvolvimento de aplicações desktop
 
 ## **Educação**
 
-### **Técnico em Desenvolvimento de Sistemas // 27/01/2025 - Em andamento**
+### **Técnico em Desenvolvimento de Sistemas // 27/01/2025 - 19/05/2026**
 
 **[Senac Centro - Av. Tristão Gonçalves, 1245, Centro, Fortaleza-CE]**
 
